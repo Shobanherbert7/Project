@@ -1,0 +1,31 @@
+.left{
+    border: 2px
+    display: inline-block;
+    position: static;
+    left: 34px;
+    top: 20px;
+    
+}
+
+.left div{
+    line-height: 19px;
+    font-size: 20px;
+    font-weight: bold;
+    
+    
+}
+.left img{
+    width: 40px;
+    filter: invert(100%);
+}
+.title-one{
+    font-family: bold;
+    font-family: 'Helvetica',sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.title-one{
+    font-size: 30px;
+
+}
